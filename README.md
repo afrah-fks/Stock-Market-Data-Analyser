@@ -1,4 +1,4 @@
-# 📈 Stock Market Data Analyzer
+#  Stock Market Data Analyzer
 
 Thia is a Python-based Stock Market Analytics Dashboard that fetches real stock market data using Yahoo Finance and performs financial analysis, technical analysis, risk analysis, and interactive visualization.
 
@@ -13,9 +13,9 @@ Built using:
 
 ---
 
-# 🚀 Features
+#  Features
 
-## 📊 Real-Time Stock Analysis
+##  Real-Time Stock Analysis
 
 - Fetch real stock market data
 - Analyze historical stock trends
@@ -23,7 +23,7 @@ Built using:
 
 ---
 
-## 📈 Technical Indicators
+##  Technical Indicators
 
 - SMA 20
 - SMA 50
@@ -33,7 +33,7 @@ Built using:
 
 ---
 
-## 📉 Interactive Visualizations
+## Interactive Visualizations
 
 - Stock Price Chart
 - Moving Average Chart
@@ -42,7 +42,7 @@ Built using:
 
 ---
 
-## ⚠️ Risk Analysis
+##  Risk Analysis
 
 - Volatility Detection
 - Bullish/Bearish Trend Analysis
@@ -50,7 +50,7 @@ Built using:
 
 ---
 
-## 📄 Export Features
+##  Export Features
 
 - Download processed CSV data
 - Generate reports
@@ -58,7 +58,7 @@ Built using:
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 
 - Python
@@ -78,7 +78,7 @@ Built using:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Stock-Market-Data-Analyzer/
@@ -101,9 +101,9 @@ Stock-Market-Data-Analyzer/
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/afrah-fks/Stock-Market-Data-Analyser.git
@@ -111,7 +111,7 @@ git clone https://github.com/afrah-fks/Stock-Market-Data-Analyser.git
 
 ---
 
-## 2️⃣ Move Into Project Folder
+## 2️ Move Into Project Folder
 
 ```bash
 cd Stock-Market-Data-Analyzer
@@ -119,7 +119,7 @@ cd Stock-Market-Data-Analyzer
 
 ---
 
-## 3️⃣ Create Virtual Environment
+## 3️ Create Virtual Environment
 
 ### Windows
 
@@ -142,7 +142,7 @@ source venv/bin/activate
 
 ---
 
-## 4️⃣ Install Requirements
+## 4️ Install Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -150,7 +150,7 @@ pip install -r requirements.txt
 
 ---
 
-# ▶️ Run Project
+# Run Project
 
 ## Run Streamlit Dashboard
 
@@ -160,19 +160,19 @@ streamlit run dashboard.py
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
-✅ Stock Search  
-✅ Date Range Selection  
-✅ SMA20 & SMA50 Visualization  
-✅ Risk Analysis  
-✅ Volume Analysis  
-✅ Interactive Charts  
-✅ Download CSV Option  
+ Stock Search  
+ Date Range Selection  
+ SMA20 & SMA50 Visualization  
+ Risk Analysis  
+ Volume Analysis  
+ Interactive Charts  
+ Download CSV Option  
 
 ---
 
-# 📈 Sample Stock Tickers
+#  Sample Stock Tickers
 
 ## US Stocks
 
@@ -195,7 +195,7 @@ HDFCBANK.NS
 
 ---
 
-# 📸 Screenshots
+#  Screenshots
 
 ## Dashboard
 
@@ -208,15 +208,12 @@ HDFCBANK.NS
 
 ![moving_average](images/moving_average.png)
 
----
 
-## Moving Average Visualization
 
-Add screenshot here.
 
 ---
 
-# 📌 Future Improvements
+#  Future Improvements
 
 - RSI Indicator
 - MACD Indicator
@@ -228,7 +225,7 @@ Add screenshot here.
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 This project demonstrates:
 
