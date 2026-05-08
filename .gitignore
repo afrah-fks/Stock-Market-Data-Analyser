@@ -18,10 +18,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Generated Files
-outputs/
-reports/
-data/
 
 # Streamlit Cache
 .streamlit/

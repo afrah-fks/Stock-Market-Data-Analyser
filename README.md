@@ -1,4 +1,4 @@
-# 📈 Stock Market Data Analyzer
+#  Stock Market Data Analyzer
 
 Thia is a Python-based Stock Market Analytics Dashboard that fetches real stock market data using Yahoo Finance and performs financial analysis, technical analysis, risk analysis, and interactive visualization.
 
@@ -11,19 +11,19 @@ Built using:
 - Plotly
 - yfinance
 
----
 
-# 🚀 Features
 
-## 📊 Real-Time Stock Analysis
+#  Features
+
+##  Real-Time Stock Analysis
 
 - Fetch real stock market data
 - Analyze historical stock trends
 - Compare stock movement over time
 
----
 
-## 📈 Technical Indicators
+
+## Technical Indicators
 
 - SMA 20
 - SMA 50
@@ -31,7 +31,7 @@ Built using:
 - Volatility Analysis
 - Trend Detection
 
----
+
 
 ## 📉 Interactive Visualizations
 
@@ -40,25 +40,25 @@ Built using:
 - Return Distribution
 - Volume Analysis
 
----
 
-## ⚠️ Risk Analysis
+
+##  Risk Analysis
 
 - Volatility Detection
 - Bullish/Bearish Trend Analysis
 - Market Performance Evaluation
 
----
 
-## 📄 Export Features
+
+##  Export Features
 
 - Download processed CSV data
 - Generate reports
 - Save visualization charts
 
----
 
-# 🛠️ Tech Stack
+
+#  Tech Stack
 
 
 - Python
@@ -76,9 +76,9 @@ Built using:
 - Data Visualization 
 - Statistical Charts 
 
----
 
-# 📂 Project Structure
+
+#  Project Structure
 
 ```text
 Stock-Market-Data-Analyzer/
@@ -99,27 +99,27 @@ Stock-Market-Data-Analyzer/
 └── README.md
 ```
 
----
 
-# ⚙️ Installation
 
-## 1️⃣ Clone Repository
+#  Installation
+
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/afrah-fks/Stock-Market-Data-Analyser.git
 ```
 
----
 
-## 2️⃣ Move Into Project Folder
+
+## 2️ Move Into Project Folder
 
 ```bash
 cd Stock-Market-Data-Analyzer
 ```
 
----
 
-## 3️⃣ Create Virtual Environment
+
+## 3️ Create Virtual Environment
 
 ### Windows
 
@@ -140,17 +140,17 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
----
 
-## 4️⃣ Install Requirements
+
+## 4️ Install Requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
----
 
-# ▶️ Run Project
+
+#  Run Project
 
 ## Run Streamlit Dashboard
 
@@ -158,21 +158,21 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
----
 
-# 📊 Dashboard Features
 
-✅ Stock Search  
-✅ Date Range Selection  
-✅ SMA20 & SMA50 Visualization  
-✅ Risk Analysis  
-✅ Volume Analysis  
-✅ Interactive Charts  
-✅ Download CSV Option  
+#  Dashboard Features
 
----
+- Stock Search  
+- Date Range Selection  
+- SMA20 & SMA50 Visualization  
+- Risk Analysis  
+- Volume Analysis  
+- Interactive Charts  
+- Download CSV Option  
 
-# 📈 Sample Stock Tickers
+
+
+#  Sample Stock Tickers
 
 ## US Stocks
 
@@ -193,9 +193,9 @@ TCS.NS
 HDFCBANK.NS
 ```
 
----
 
-# 📸 Screenshots
+
+#  Screenshots
 
 ## Dashboard
 
@@ -214,9 +214,9 @@ HDFCBANK.NS
 
 Add screenshot here.
 
----
 
-# 📌 Future Improvements
+
+#  Future Improvements
 
 - RSI Indicator
 - MACD Indicator
@@ -226,9 +226,9 @@ Add screenshot here.
 - Machine Learning Prediction
 - News Sentiment Analysis
 
----
 
-# 🎯 Learning Outcomes
+
+#  Learning Outcomes
 
 This project demonstrates:
 
@@ -240,5 +240,5 @@ This project demonstrates:
 - Technical Analysis
 - Risk Analytics
 
----
+
 
