@@ -11,7 +11,7 @@ Built using:
 - Plotly
 - yfinance
 
-
+---
 
 #  Features
 
@@ -21,9 +21,9 @@ Built using:
 - Analyze historical stock trends
 - Compare stock movement over time
 
+---
 
-
-## Technical Indicators
+##  Technical Indicators
 
 - SMA 20
 - SMA 50
@@ -31,16 +31,16 @@ Built using:
 - Volatility Analysis
 - Trend Detection
 
+---
 
-
-## 📉 Interactive Visualizations
+## Interactive Visualizations
 
 - Stock Price Chart
 - Moving Average Chart
 - Return Distribution
 - Volume Analysis
 
-
+---
 
 ##  Risk Analysis
 
@@ -48,7 +48,7 @@ Built using:
 - Bullish/Bearish Trend Analysis
 - Market Performance Evaluation
 
-
+---
 
 ##  Export Features
 
@@ -56,7 +56,7 @@ Built using:
 - Generate reports
 - Save visualization charts
 
-
+---
 
 #  Tech Stack
 
@@ -76,7 +76,7 @@ Built using:
 - Data Visualization 
 - Statistical Charts 
 
-
+---
 
 #  Project Structure
 
@@ -99,7 +99,7 @@ Stock-Market-Data-Analyzer/
 └── README.md
 ```
 
-
+---
 
 #  Installation
 
@@ -109,7 +109,7 @@ Stock-Market-Data-Analyzer/
 git clone https://github.com/afrah-fks/Stock-Market-Data-Analyser.git
 ```
 
-
+---
 
 ## 2️ Move Into Project Folder
 
@@ -117,7 +117,7 @@ git clone https://github.com/afrah-fks/Stock-Market-Data-Analyser.git
 cd Stock-Market-Data-Analyzer
 ```
 
-
+---
 
 ## 3️ Create Virtual Environment
 
@@ -140,7 +140,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-
+---
 
 ## 4️ Install Requirements
 
@@ -148,9 +148,9 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+---
 
-
-#  Run Project
+# Run Project
 
 ## Run Streamlit Dashboard
 
@@ -158,19 +158,19 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-
+---
 
 #  Dashboard Features
 
-- Stock Search  
-- Date Range Selection  
-- SMA20 & SMA50 Visualization  
-- Risk Analysis  
-- Volume Analysis  
-- Interactive Charts  
-- Download CSV Option  
+ Stock Search  
+ Date Range Selection  
+ SMA20 & SMA50 Visualization  
+ Risk Analysis  
+ Volume Analysis  
+ Interactive Charts  
+ Download CSV Option  
 
-
+---
 
 #  Sample Stock Tickers
 
@@ -193,7 +193,7 @@ TCS.NS
 HDFCBANK.NS
 ```
 
-
+---
 
 #  Screenshots
 
@@ -208,13 +208,10 @@ HDFCBANK.NS
 
 ![moving_average](images/moving_average.png)
 
+
+
+
 ---
-
-## Moving Average Visualization
-
-Add screenshot here.
-
-
 
 #  Future Improvements
 
@@ -226,7 +223,7 @@ Add screenshot here.
 - Machine Learning Prediction
 - News Sentiment Analysis
 
-
+---
 
 #  Learning Outcomes
 
@@ -240,5 +237,5 @@ This project demonstrates:
 - Technical Analysis
 - Risk Analytics
 
-
+---
 
